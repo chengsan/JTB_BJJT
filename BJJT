@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://220.231.252.14/LEAP/LCIPModule/LCIP/Web/Home/img/appweblog.png/string>
+                        <string>http://220.231.252.14/LEAP/LCIPModule/LCIP/Web/Home/img/appweblog.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
