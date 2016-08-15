@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://qichedangan.cn/LEAP/Download/default/2016/1/22/aa04c285d2cb407fa36705520ce832be/_v3_/CZT_IOS_Longrise.ipa</string>
+                        <string>http://qichewx.longrise.cn/LEAP/Download/default/2016/1/22/aa04c285d2cb407fa36705520ce832be/_v3_/CZT_IOS_Longrise.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://qichedangan.cn/LEAP/LCIPModule/LCIP/Web/Home/img/appweblog.png</string>
+                        <string>http://qichewx.longrise.cn/LEAP/LCIPModule/LCIP/Web/Home/img/appweblog.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://qichedangan.cn/LEAP/LCIPModule/LCIP/Web/Home/img/appweblog.png</string>
+                        <string>http://qichewx.longrise.cn/LEAP/LCIPModule/LCIP/Web/Home/img/appweblog.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
